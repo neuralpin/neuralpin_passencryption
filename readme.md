@@ -8,7 +8,7 @@ Helper for secure password encrypting and validating
 
 Example for encrypting a user password using random salt
 ```php
-use Neuralpin\passencryption\passwordEncryptor;
+use neuralpin\passencryption\passwordEncryptor;
 
 $user_plain_password = 'original_password';
 
@@ -22,7 +22,7 @@ $user_encrypted_password->getPassword();
 
 Example for comparing user password with database password
 ```php
-use Neuralpin\passencryption\passwordCompare;
+use neuralpin\passencryption\passwordCompare;
 
 $user_plain_password = 'original_password';
 

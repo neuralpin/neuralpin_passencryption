@@ -1,6 +1,6 @@
 <?php
 
-namespace Neuralpin\passencryption;
+namespace neuralpin\passencryption;
 
 class passwordCompare{
 
