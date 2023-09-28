@@ -48,6 +48,6 @@ if( $password_comparing->isEqual() ){
 
 ## Use the module with composer
 ```bash
-composer config repositories.neuralpin/Passencryption vcs https://github.com/neuralpin/neuralpin_passencryption
-composer require neuralpin/Passencryption
+composer config repositories.neuralpin/passencryption vcs https://github.com/neuralpin/neuralpin_passencryption
+composer require neuralpin/passencryption
 ```
