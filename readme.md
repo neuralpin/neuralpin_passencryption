@@ -1,4 +1,4 @@
-# neuralpin/Passencryption
+# neuralpin/passencryption
 
 ## Description:
 Helper for secure password encrypting and validating
