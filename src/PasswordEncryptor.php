@@ -1,6 +1,6 @@
 <?php
 
-namespace neuralpin\passencryption;
+namespace Neuralpin\Passencryption;
 
 class PasswordEncryptor{
 

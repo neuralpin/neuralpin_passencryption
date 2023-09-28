@@ -14,7 +14,7 @@
     ],
     "autoload": {
         "psr-4": {
-            "neuralpin\\passencryption\\": "src/"
+            "Neuralpin\\Passencryption\\": "src/"
         }
     }
 }
