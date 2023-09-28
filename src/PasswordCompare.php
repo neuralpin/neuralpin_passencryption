@@ -2,7 +2,7 @@
 
 namespace neuralpin\passencryption;
 
-class passwordCompare{
+class PasswordCompare{
 
     private bool $result;
 

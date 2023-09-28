@@ -2,7 +2,7 @@
 
 namespace neuralpin\passencryption;
 
-class passwordEncryptor{
+class PasswordEncryptor{
 
     private string $salt;
     private string $password;
